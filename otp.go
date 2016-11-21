@@ -1,4 +1,4 @@
-package main // import github.com/stuarthicks/otp
+package main
 
 import (
 	"fmt"

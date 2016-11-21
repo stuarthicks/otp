@@ -1,0 +1,4 @@
+package: github.com/stuarthicks/otp
+import:
+- package: github.com/hgfischer/go-otp
+  version: ^1.0.0
