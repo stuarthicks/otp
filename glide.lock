@@ -1,6 +1,0 @@
-hash: 038f56cb51e6c44bd09955956f84cdb8a1b0ba3043bbed6d8e904f95f8263323
-updated: 2016-11-21T20:23:46.224263402Z
-imports:
-- name: github.com/hgfischer/go-otp
-  version: ae459b7572ee6c0fe3394a750678aacffd138060
-testImports: []

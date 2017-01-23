@@ -1,0 +1,8 @@
+[package]
+name = "otp"
+version = "0.1.0"
+authors = ["Stuart Hicks <s@smhicks.uk>"]
+
+[dependencies]
+base32 = "0.3.1"
+oath = "0.1.4"
