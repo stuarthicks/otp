@@ -9,5 +9,5 @@ fn main() {
     let steps = 30;
 
     let key = base32::decode(base32::Alphabet::RFC4648 {padding: false}, SECRET).unwrap();
-    println!("{}", oath::totp_raw(key.as_ref(), length, offset, steps));
+    println!("{:06}", oath::totp_raw(key.as_ref(), length, offset, steps));
 }
